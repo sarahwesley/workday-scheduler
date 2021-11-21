@@ -6,8 +6,8 @@
 # Wesbite:
 ## Insert Url once published
 
-# Screenshot:
-## insert screenshots of application
+# Demo of required mock up:
+## [mockup of website functionality] (/images/workdayMockup.gif)
 
 # Made With:
 ## HTML, CSS, JavaScript, Jquery, Moment
