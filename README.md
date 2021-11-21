@@ -4,7 +4,7 @@
 ## This application allows busy bees to easily schedule their days
 
 # Wesbite:
-## Insert Url once published
+## https://sarahwesley.github.io/workday-scheduler/
 
 # Demo of required mock up:
 ## [mockup of website functionality] (/images/workdayMockup.gif)
